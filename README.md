@@ -86,9 +86,9 @@ val result = weather.await() // ждём завершения
 ## Скриншоты работы приложения
 
 - ![Загрузка данных:](app/img/step6_loading_Alekseev.png)
-- ![Готовый дашборд:](app/img/step6_loaded_Alekseev.png)
-- ![Обработка ошибки:](app/img/step11_5_error_handled_Alekseev.png)
-- ![Автообновление:](app/img/step13_refreshed_data_Alekseev.png)
+- ![Готовый дашборд:](app/img/step6_mainactivity_code_Alekseev.png)
+- ![Обработка ошибки:](app/img/step5_viewmodel_sequential_Alekseev.png)
+- ![Автообновление:](app/img/step13_auto_refresh_code_Alekseev.png)
 
 ## Автор
 - **ФИО** - Алексеев Григорий Сергеевич
